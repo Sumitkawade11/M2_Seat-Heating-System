@@ -25,7 +25,7 @@ WHAT : Passanger Seat and Heat Monitoring System.
 
 WHERE : Used in automotive industry.
 
-WHEN :low temperature(winter seasons)
+WHEN :Low temperature(winter seasons)
 
 WHY : Well being for user.
 
