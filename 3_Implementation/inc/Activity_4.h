@@ -1,18 +1,7 @@
 #ifndef __ACTIVITY_4_H_
 #define __ACTIVITY_4_H_
-/**
- * @file activity4.h
- * @author Chinmayi B C
- * @brief Project to turn ON LED connected to AVR328 MCU GPIO Pin if button sensor and heater switches are pressed also read analog values from temperature sensor convert to corresponding digital values and display waveform and it's corresponding temperature
- * @version 0.1
- * @date 2021-04-29
- * 
- * @copyright Copyright (c) 2021
- * 
- */
- /**
- * Include files
- */ 
+
+
  #include "activity_1.h"
 
  #define BAUD_RATE_REG_L (UBRR0L) /* set baud rate*/
