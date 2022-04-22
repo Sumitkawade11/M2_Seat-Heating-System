@@ -1,15 +1,5 @@
 #ifndef __ACTIVITY_2_H_
 #define __ACTIVITY_2_H_
-/**
- * @file activity2.h
- * @author Chinmayi B C
- * @brief Project to turn ON LED connected to AVR328 MCU GPIO Pin if button sensor and heater switches are pressed also read analog values from temperature sensor convert to corresponding digital values
- * @version 0.1
- * @date 2021-04-28
- * 
- * @copyright Copyright (c) 2021
- * 
- */
 
 #define voltage_ref_value (REFS0) //For Aref=AVcc
 #define ADC_enable (ADEN) //to enable ADC
